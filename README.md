@@ -10,4 +10,4 @@ Currently, I'm diving headfirst into the world of React.js and Next.js, striving
 
 If you're interested, do check out the list of repositories in my profile - they're all about React.js and Next.js frontend projects. I hope you find them helpful and inspiring!<br><br><br><br>Let's connect and collaborate! Feel free to reach out to me on 🙇🏻‍♂️<br>**[Instagram (@rasxev)](https://www.instagram.com/rasxev/)** or **[Twitter (@geminigasih)](https://twitter.com/geminigasih)**
 
-I'm eager to hear from you and exchange ideas. Together, we can create exceptional digital experiences! 🚀<br><br><br><br>![@rxsyu](https://github.com/rxsyu/rxsyu/assets/138843301/09938261-c388-46ac-a15d-458e32544565)
+I'm eager to hear from you and exchange ideas. Together, we can create exceptional digital experiences! 🚀<br><br><br><br>![@rxsyu](https://github.com/rxsyu/rxsyu/assets/138843301/43093190-34f7-41d9-a84b-ef6828bf0d30)
