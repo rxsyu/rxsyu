@@ -6,11 +6,7 @@ My passion lies in **crafting captivating user interfaces and delightful user ex
 
 Color plays a vital role in my design process, and I have a soft spot for the mesmerizing #f4f4f5 and #18181b color combination. Alternatively, I find myself drawn to the bold and distinctive appeal of brutalist color combos.
 
-Currently, I'm diving headfirst into the world of React.js and Next.js, striving to expand my knowledge and expertise in these technologies. It's an exciting journey, and I can't wait to see how it elevates my future projects! Speaking of which, I'm actively engaged in building a website for a police department in Indonesia, codenamed "**SIGAP**". It's a project close to my heart, allowing me to utilize my UI/UX design skills and frontend development prowess for a meaningful cause.
-
-![@rxsyu](https://github.com/rxsyu/rxsyu/assets/138843301/43093190-34f7-41d9-a84b-ef6828bf0d30)
-
-If you're interested, do check out the list of repositories in my profile - they're all about React.js and Next.js frontend projects. I hope you find them helpful and inspiring!
+Currently, I'm diving headfirst into the world of React.js and Next.js, striving to expand my knowledge and expertise in these technologies. It's an exciting journey, and I can't wait to see how it elevates my future projects! Speaking of which, I'm actively engaged in building a website for a police department in Indonesia, codenamed "**SIGAP**". It's a project close to my heart, allowing me to utilize my UI/UX design skills and frontend development prowess for a meaningful cause.<br><br><br><br>![@rxsyu](https://github.com/rxsyu/rxsyu/assets/138843301/43093190-34f7-41d9-a84b-ef6828bf0d30)<br><br><br><br>If you're interested, do check out the list of repositories in my profile - they're all about React.js and Next.js frontend projects. I hope you find them helpful and inspiring!
 
 Let's connect and collaborate! Feel free to reach out to me on 🙇🏻‍♂️<br>**[Instagram (@rasxev)](https://www.instagram.com/rasxev/)** or **[Twitter (@geminigasih)](https://twitter.com/geminigasih)**
 
