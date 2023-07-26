@@ -9,6 +9,6 @@ Color plays a vital role in my design process, and I have a soft spot for the me
 
 Currently, I'm diving headfirst into the world of React.js and Next.js, striving to expand my knowledge and expertise in these technologies. It's an exciting journey, and I can't wait to see how it elevates my future projects! Speaking of which, I'm actively engaged in building a website for a police department in Indonesia, codenamed "**SIGAP**". It's a project close to my heart, allowing me to utilize my UI/UX design skills and frontend development prowess for a meaningful cause.
 
-If you're interested, do check out the list of repositories in my profile - they're all about React.js and Next.js frontend projects. I hope you find them helpful and inspiring!<br><br><br><br>Let's connect and collaborate! Feel free to reach out to me on 🙇🏻‍♂️<br>**Instagram (@rasxev)** or **Twitter (@geminigasih).**
+If you're interested, do check out the list of repositories in my profile - they're all about React.js and Next.js frontend projects. I hope you find them helpful and inspiring!<br><br><br><br>Let's connect and collaborate! Feel free to reach out to me on 🙇🏻‍♂️<br>**[Instagram (@rasxev)](https://www.instagram.com/rasxev/)** or **[Twitter (@geminigasih)](https://twitter.com/geminigasih)**
 
 I'm eager to hear from you and exchange ideas. Together, we can create exceptional digital experiences! 🚀
