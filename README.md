@@ -2,8 +2,7 @@
 
 — and I'm delighted to welcome you to my GitHub profile and repository! 💻
 
-My passion lies in **crafting captivating user interfaces and delightful user experiences for iOS apps**.
-Alongside that, I have a deep fascination with all things **JavaScript**, and I thoroughly enjoy working on **frontend website development projects** with **React.js** and **Next.js**
+My passion lies in **crafting captivating user interfaces and delightful user experiences for iOS apps**. Alongside that, I have a deep fascination with all things **JavaScript**, and I thoroughly enjoy working on **frontend website development projects** with **React.js** and **Next.js**
 
 Color plays a vital role in my design process, and I have a soft spot for the mesmerizing #f4f4f5 and #18181b color combination. Alternatively, I find myself drawn to the bold and distinctive appeal of brutalist color combos.
 
