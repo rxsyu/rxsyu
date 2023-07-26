@@ -1,6 +1,6 @@
 <h1>Hey there! I'm Ras (@rxsyu) 👋🏻</h1>
 
-— and I'm delighted to welcome you to my GitHub repository! 💻
+— and I'm delighted to welcome you to my GitHub profile and repository! 💻
 
 My passion lies in **crafting captivating user interfaces and delightful user experiences for iOS apps**.
 Alongside that, I have a deep fascination with all things **JavaScript**, and I thoroughly enjoy working on **frontend website development projects** with **React.js** and **Next.js**
