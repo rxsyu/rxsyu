@@ -1,1 +1,1 @@
-![@rxsyu](https://github.com/rxsyu/rxsyu/assets/138843301/276743fe-8a7b-41c6-9de9-bf1ddc34adde)
+![@rxsyu](https://github.com/rxsyu/rxsyu/assets/138843301/c6f39451-c963-49e9-a51e-d067251c9617)
